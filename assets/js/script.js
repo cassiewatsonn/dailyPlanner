@@ -25,14 +25,32 @@ $(".saveBtn").on("click", function(){
 })
 
 ///Get information from local storage to save on text area//
-var hourNineValue= localStorage.getItem("hour-9")
+let hourNineValue= localStorage.getItem("hour-9")
 $("#hour-9 textarea").val(hourNineValue)
 
-var hourTenValue= localStorage.getItem("hour-10")
+let hourTenValue= localStorage.getItem("hour-10")
 $("#hour-10 textarea").val(hourTenValue)
 
-var hourElevenValue= localStorage.getItem("hour-11")
+let hourElevenValue= localStorage.getItem("hour-11")
 $("#hour-11 textarea").val(hourElevenValue)
+
+let hourTwelveValue= localStorage.getItem("hour-12")
+$("#hour-12 textarea").val(hourTwelveValue)
+
+let hourThirteenValue= localStorage.getItem("hour-13")
+$("#hour-13 textarea").val(hourThirteenValue)
+
+let hourFourteenValue= localStorage.getItem("hour-14")
+$("#hour-14 textarea").val(hourFourteenValue)
+
+let hourFifteenValue= localStorage.getItem("hour-15")
+$("#hour-12 textarea").val(hourFifteenValue)
+
+let hourSixteenValue= localStorage.getItem("hour-16")
+$("#hour-16 textarea").val(hourSixteenValue)
+
+let hourSeventeenValue= localStorage.getItem("hour-17")
+$("#hour-17 textarea").val(hourSeventeenValue)
 
     // TODO: Add code to apply the past, present, or future class to each time
     // block by comparing the id to the current hour. HINTS: How can the id
