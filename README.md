@@ -18,7 +18,7 @@ When I open the planner, then the current day is displayed at the top of the cal
 
 ## Link 
 
-
+https://cassiewatsonn.github.io/dailyPlanner/
 
 
 
