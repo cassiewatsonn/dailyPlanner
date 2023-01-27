@@ -14,9 +14,10 @@ N/A
 When I open the planner, then the current day is displayed at the top of the calendar. When I scroll down, then I am presented with timeblocks for standard business hours. When I view the timeblocks for that day, then each timeblock is color coded to indicate whether it is in the past, present, or future. When I click into a timeblock then, I can enter an event. When I click the save button for that timeblock then, the text for that event is saved in local storage. When I refresh the page, then the saved events persist. 
 
 
-## ![Daily Planner](./assets/images/)
+## ![Daily Planner](./assets/images/Work%20Day%20Scheduler.png)
 
 ## Link 
+
 
 
 
