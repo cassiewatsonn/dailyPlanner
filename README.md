@@ -23,7 +23,7 @@ https://cassiewatsonn.github.io/dailyPlanner/
 
 
 ## Credits 
-N/A 
+Credit to my study group members Rebecca, Kirk and Mario as well as my tutor Jehyun! 
 
 ## License
 
